@@ -1,0 +1,68 @@
+{
+  "name": "Promise",
+  "logo": {
+    "dark": "/logo/promise.svg",
+    "light": "/logo/promise.svg"
+  },
+  "favicon": "/favicon.png",
+  "colors": {
+    "primary": "#47A0F0",
+    "light": "#8CC9FF",
+    "dark": "#2251CA",
+    "anchors": { "from": "#47A0F0", "to": "#D2B4ED" }
+  },
+  "topbarLinks": [
+    {
+      "name": "Documentation",
+      "url": "https://promise.com/docs"
+    }
+  ],
+  "topbarCtaButton": {
+    "name": "Get Started",
+    "url": "https://github.com/promise/starter"
+  },
+  "anchors": [
+    {
+      "name": "API Reference",
+      "icon": "rectangle-terminal",
+      "url": "api-reference"
+    },
+    {
+      "name": "Changelog",
+      "icon": "list",
+      "url": "https://promise.com"
+    },
+    {
+      "name": "Community",
+      "icon": "discord",
+      "url": "https://promise.com/community"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "Home",
+      "pages": ["introduction", "development"]
+    },
+    {
+      "group": "Learn More",
+      "pages": ["features", "resources"]
+    },
+    {
+      "group": "API Documentation",
+      "pages": ["api-reference/authentication"]
+    },
+    {
+      "group": "Endpoint Examples",
+      "pages": [
+        "api-reference/endpoint/get",
+        "api-reference/endpoint/create",
+        "api-reference/endpoint/update",
+        "api-reference/endpoint/delete"
+      ]
+    }
+  ],
+  "footerSocials": {
+    "twitter": "https://twitter.com/promise_labs",
+    "linkedin": "https://www.linkedin.com/company/promiselabs/about/"
+  }
+}
