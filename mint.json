@@ -13,13 +13,13 @@
   },
   "topbarLinks": [
     {
-      "name": "Documentation",
-      "url": "https://promise.com/docs"
+      "name": "Sign In",
+      "url": "https://www.promise.xyz/"
     }
   ],
   "topbarCtaButton": {
     "name": "Get Started",
-    "url": "https://github.com/promise/starter"
+    "url": "https://www.promise.xyz/"
   },
   "anchors": [
     {
@@ -30,12 +30,12 @@
     {
       "name": "Changelog",
       "icon": "list",
-      "url": "https://promise.com"
+      "url": "https://www.promise.xyz/"
     },
     {
       "name": "Community",
-      "icon": "discord",
-      "url": "https://promise.com/community"
+      "icon": "comments",
+      "url": "https://www.promise.xyz/"
     }
   ],
   "navigation": [
