@@ -9,7 +9,7 @@
     "primary": "#47A0F0",
     "light": "#8CC9FF",
     "dark": "#2251CA",
-    "anchors": { "from": "#47A0F0", "to": "#D2B4ED" }
+    "anchors": { "from": "#4C92EB", "to": "#4040F5" }
   },
   "topbarLinks": [
     {
